@@ -18,4 +18,3 @@ personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
 
-alert(personalMovieDB);
